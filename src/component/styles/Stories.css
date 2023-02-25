@@ -1,0 +1,19 @@
+.social{
+    list-style: none;
+    position: fixed;
+    left: 0;
+    top: 25%;
+    background-color: var(--primary);
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.35);
+    border-radius: 0px 40px 40px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 22px 20px 22px 12px;
+}
+
+.social li{
+    font-size: 1.5rem;
+    cursor: pointer;
+}

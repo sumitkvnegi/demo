@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --primary:#1F2632;
+    --secondary:#222A36;
+    --btnColor:#00B2FF;
+    --fontColor:#7F848B;
+}
+
+
+body{
+    color: var(--fontColor);
+    background: var(--primary);
+    font-family: "Poppins";
+    padding: 0 6rem;
+}

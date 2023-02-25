@@ -1,0 +1,14 @@
+.skills{
+    height: 100vh;
+    background-color: var(--secondary);
+    margin: 40px 0;
+}
+
+.skills h1{
+    text-align: center;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+    color: #00B2FF;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
